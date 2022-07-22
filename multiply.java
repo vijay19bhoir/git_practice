@@ -6,6 +6,6 @@ public class  multiply{
         string v = "vijay";
         string s ="snehal";
 
-        System.out.println(v + "Love A lot " + s)
+        System.out.println(v + "Love A lot " + s);
     }
 }
